@@ -1,0 +1,15 @@
+﻿Build started 9.10.2020 г. 9:39:39.
+     1>Project "C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Weche pepisan kod\Weche pepisan kod.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\legion\documents\visual studio 2012\projects\weche pepisan kod\weche pepisan kod\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\legion\documents\visual studio 2012\projects\weche pepisan kod\weche pepisan kod\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Debug\Weche pepisan kod.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Debug\Weche pepisan kod.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Debug\Weche pepisan kod.lib" /MACHINE:X86 Debug\Source.obj
+         Weche pepisan kod.vcxproj -> C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Debug\Weche pepisan kod.exe
+     1>Done Building Project "C:\Users\Legion\documents\visual studio 2012\Projects\Weche pepisan kod\Weche pepisan kod\Weche pepisan kod.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.61
